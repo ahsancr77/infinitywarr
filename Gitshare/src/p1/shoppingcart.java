@@ -23,7 +23,7 @@ public static shoppingcart getinstance()
 	return instance;
 }
 
-
+//sdfds
 ArrayList<String> thing=new ArrayList<String>();
 
 
